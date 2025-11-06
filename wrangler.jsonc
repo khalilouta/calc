@@ -1,7 +1,7 @@
 {
-       "name": "worker-name",
+       "name": "calceau",
         "compatibility_date": "2025-11-06",
    	    "assets": {
-   	      "directory": "/opt/buildhome/repo/appcom.php/_redirects"
+   	      "directory": "/opt/buildhome/repo/appcom.php"
     	    }
       }
